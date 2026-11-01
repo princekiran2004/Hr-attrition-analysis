@@ -1,0 +1,8 @@
+feature,chi2,p_value,cramers_v
+overtime,48.3142,0.0,0.1099
+job_level,41.3277,0.0,0.1016
+pay_position,35.8194,0.0,0.0946
+department,26.1903,0.0001,0.0809
+work_mode,5.2931,0.0709,0.0364
+age_group,3.445,0.328,0.0293
+gender,0.0042,0.9481,0.001
